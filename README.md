@@ -20,6 +20,7 @@ This project presents a secure AI accelerator implemented using Verilog HDL and 
 - Xilinx Vivado 2018.2
 
 ## Architecture
+<img width="1385" height="912" alt="image" src="https://github.com/user-attachments/assets/7a857c9b-b2fe-4e8c-980d-25ace1449364" />
 
 Input Features
 → Systolic Array
